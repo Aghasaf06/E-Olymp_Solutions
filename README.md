@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aghasaf Maharramov</h1>
-<h3 align="center">E-Olymp_Solutions | Java</h3>
+<h3 align="center"> E-Olymp Solutions | Java </h3>
 <br>
 <p align="center"> <a href="https://www.eolymp.com/en/" target="_blank" rel="noreferrer"> <img src="https://static.e-olymp.com/eolymp.png" alt="eolymp" width="80" height="80"/> </a> </p>
 <br>
